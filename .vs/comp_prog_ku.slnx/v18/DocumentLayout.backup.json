@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\sort.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week_04\\sort.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week_04\\test.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\leap_year.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week_04\\leap_year.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\root.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week_04\\root.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\turtle_visit_friends.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:week_04\\turtle_visit_friends.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 245,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sort.py",
+              "DocumentMoniker": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\sort.py",
+              "RelativeDocumentMoniker": "week_04\\sort.py",
+              "ToolTip": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\sort.py",
+              "RelativeToolTip": "week_04\\sort.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-18T08:03:39.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "leap_year.py",
+              "DocumentMoniker": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\leap_year.py",
+              "RelativeDocumentMoniker": "week_04\\leap_year.py",
+              "ToolTip": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\leap_year.py",
+              "RelativeToolTip": "week_04\\leap_year.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-18T07:40:32.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "root.py",
+              "DocumentMoniker": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\root.py",
+              "RelativeDocumentMoniker": "week_04\\root.py",
+              "ToolTip": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\root.py",
+              "RelativeToolTip": "week_04\\root.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-18T07:40:27.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.py",
+              "DocumentMoniker": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\test.py",
+              "RelativeDocumentMoniker": "week_04\\test.py",
+              "ToolTip": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\test.py",
+              "RelativeToolTip": "week_04\\test.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-18T07:40:24.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "turtle_visit_friends.py",
+              "DocumentMoniker": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\turtle_visit_friends.py",
+              "RelativeDocumentMoniker": "week_04\\turtle_visit_friends.py",
+              "ToolTip": "D:\\01-Project\\University\\First Year\\comp_prog_ku\\week_04\\turtle_visit_friends.py",
+              "RelativeToolTip": "week_04\\turtle_visit_friends.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-18T07:31:03.035Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

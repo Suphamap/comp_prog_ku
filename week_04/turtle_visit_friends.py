@@ -19,7 +19,6 @@ def moveto(x,y, name):
     heading_to(x, y)
     turtle.forward(distance)
 
-
 # main program
 moveto(mickey.x, mickey.y, mickey)
 moveto(raph.x, raph.y, raph)
