@@ -1,24 +1,21 @@
-target = int(input("Distance from starting point(m.): "))
-current = 0
-set_count = 0
+import sys
 
-while current != target:
-    if current < target:
-        current += 5
-        print(current, end=" ")
-        current -= 2
-        print(current, end=" ")
-        set_count += 1
-    elif current > target:
-        current -= 4
-        print(current, end=" ")
-        current += 3
-        print(current, end=" ")
-        set_count += 1
+msg = input("Enter a string: ")
+n = int(input("Enter arrow's size (greater than 0): "))
+if n <= 0:
+    print("Size must be greater than 0.")
+    sys.exit()
 
-if not target == 0:
-    print()
-    print(f"Moved {set_count} set(s)")
+
+if n %2 != 0:
+    for i in range(0, (n//2)+1):
+        print(" "*i + msg)
+    for i in range((n//2)-1, -1, -1):
+        print(" "*i+ msg)
 else:
-    print(current)
-    print(f"Moved {set_count} set(s)")
+    for i in range(0, (n//2)-1):
+        print(" "*i + msg)
+    print(" "*((n//2)-1) + msg)
+    print(" " *((n//2)-1) + msg)
+    for i in range((n//2)-2, -1, -1):
+        print(" "*i+ msg)
